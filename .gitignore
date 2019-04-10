@@ -15,7 +15,6 @@ __pycache__/
 *.png
 *.pdf
 *.json
-*.csv
 *.pkl
 
 # Distribution / packaging
